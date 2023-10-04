@@ -1,0 +1,6 @@
+export const MAIN_ROUTE = '/'
+export const GAME_ROUTE = '/game'
+export const TASK_ROUTE = '/task'
+export const BOOK_ROUTE = '/book'
+export const WHATSAPP_ROUTE = '/whatsapp'
+export const BOT_ROUTE = '/bot'

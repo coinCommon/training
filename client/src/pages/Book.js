@@ -33,6 +33,7 @@ const Book = () => {
     }
     console.log(deepPick('type', dan))
     console.log(deepPick('data.info.fullName.first', dan))
+    console.log(deepPick('data.info.fullName.first', dan))
 
     // --------------------------------------------------------------------
 
